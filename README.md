@@ -1,8 +1,7 @@
-# ELK 기반 통합 로그 분석 시스템
+# OCSF 기반 보안 로그 통합 및 분석 프로젝트
 
 기업 내 각 부서의 로그를 수집하여 중앙 서버에서 저장, 분석, 시각화하고, 이상행위를 탐지해 실시간으로 알림까지 제공하는 **로그 분석 아키텍처**
 
----
 
 ## 구성 요소
 
@@ -31,13 +30,11 @@
 - **Slack**  
   Sigma Rule에 의해 탐지된 이벤트를 운영자에게 실시간 알림 형태로 전송
   빠른 대응을 위한 경보 채널 역할 수행
-
----
+  
 
 ## 데이터 흐름 요약
 > 부서 → 수집기 → Logstash / Vector → Elasticsearch → Kibana / Sigma → UI / Slack
 
----
 
 ## 주요 기능
 
@@ -46,6 +43,5 @@
 - Sigma 기반의 이상행위 탐지 룰 적용
 - Slack 연동을 통한 실시간 보안 이벤트 알림
 
----
 
 # Architecture![아키텍처](https://github.com/user-attachments/assets/4878f109-d1ba-479a-a3ef-9e608bf69c2c)
