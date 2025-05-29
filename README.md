@@ -43,5 +43,6 @@
 - Sigma 기반의 이상행위 탐지 룰 적용
 - Slack 연동을 통한 실시간 보안 이벤트 알림
 
+<img width="678" alt="14" src="https://github.com/user-attachments/assets/42d36979-ebf8-4e89-b417-d92b4071d0c2" />
 
-# Architecture![아키텍처](https://github.com/user-attachments/assets/4878f109-d1ba-479a-a3ef-9e608bf69c2c)
+
