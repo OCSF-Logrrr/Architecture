@@ -38,6 +38,7 @@
 - Sigma Rules
 - Slack (Alerting)
 
-<img width="678" alt="14" src="https://github.com/user-attachments/assets/42d36979-ebf8-4e89-b417-d92b4071d0c2" />
+![image](https://github.com/user-attachments/assets/67722c31-8d9d-4e6d-8295-fca139514032)
+
 
 
