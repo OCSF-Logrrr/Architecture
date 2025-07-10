@@ -40,5 +40,10 @@
 
 ![image](https://github.com/user-attachments/assets/67722c31-8d9d-4e6d-8295-fca139514032)
 
+---
+### 중간발표 이후 아키텍처
+
+
+![image](https://github.com/user-attachments/assets/3b04ebbc-762c-48f1-a757-3f52a974ab18)
 
 
