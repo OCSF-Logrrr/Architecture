@@ -48,5 +48,5 @@
 
 ---
 ### Attack Graph
-![attack_graph](https://github.com/user-attachments/assets/5533aad4-aacc-4235-9c04-bc1776bef638)
+![Logrr-페이지-12](https://github.com/user-attachments/assets/ae0be190-0710-4391-8689-fab24ffa8c5c)
 
