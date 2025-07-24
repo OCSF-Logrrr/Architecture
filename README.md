@@ -43,8 +43,8 @@
 ---
 ### 중간발표 이후 아키텍처
 
+<img width="1296" height="604" alt="KakaoTalk_Photo_2025-07-24-10-24-26" src="https://github.com/user-attachments/assets/7ab5aa73-07b6-4e79-9f5e-af44bf5a6b7c" />
 
-![image](https://github.com/user-attachments/assets/3b04ebbc-762c-48f1-a757-3f52a974ab18)
 
 ---
 ### Attack Graph
